@@ -14,7 +14,7 @@
 - 🌱 Estudando Front-End
 - 💬 Contacte-me no email: giuliasfelix@gmail.com
 - 😄 Pronouns: ela/ele/elu
-- ⚡ Fun fact: Também mexo em Blender, Adobe Substance, artes 3D num geral...
+- ⚡ Fun fact: Também mexo em Blender, Adobe Substance, Artes 3D num geral.
 
   <div>
     <a href="https://github.com/diufelix">

@@ -10,8 +10,7 @@
           
   </div>
 
-- 🔭 Hoje trabalho com UX Design
-- 🌱 Estudando Front-End
+- 🌱 Estudando Ciência de Dados
 - 💬 Contacte-me no email: giuliasfelix@gmail.com
 - 😄 Pronouns: ela/ele/elu
 - ⚡ Fun fact: Também mexo em Blender, Adobe Substance, Artes 3D num geral.

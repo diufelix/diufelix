@@ -4,5 +4,5 @@
           
   </div>
 
-- 🌱 Estudando Ciência de Dados
-- 💬 Email: giuliasfelix@gmail.com
+- 🌱 Ciência de Dados
+- 💬 email: giuliasfelix@gmail.com

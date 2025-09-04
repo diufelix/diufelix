@@ -11,9 +11,7 @@
   </div>
 
 - 🌱 Estudando Ciência de Dados
-- 💬 Contacte-me no email: giuliasfelix@gmail.com
-- 😄 Pronouns: ela/ele/elu
-- ⚡ Fun fact: Também mexo em Blender, Adobe Substance, Artes 3D num geral.
+- 💬 Email: giuliasfelix@gmail.com
 
   <div>
     <a href="https://github.com/diufelix">

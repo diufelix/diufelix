@@ -5,6 +5,5 @@
   </div>
 
 ##
-##
-- Ciência de Dados
+- data science student
 - email: giuliasfelix@gmail.com
